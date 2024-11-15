@@ -1,4 +1,4 @@
-homework3 = '\"цитата\"'
+homework3 = 'Це \'стрічка\' з лапками всередині: \"Цитата\"'
 print(homework3)
 print(id(homework3))
 
